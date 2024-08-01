@@ -1,0 +1,23 @@
+[09-May-2022 08:15:28 UTC] PHP Warning:  Undefined variable $subjek in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 08:15:28 UTC] PHP Warning:  Undefined variable $pesan in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 08:15:28 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 08:19:54 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 08:23:41 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 08:43:25 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 08:45:50 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 08:45:51 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 08:45:53 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 08:46:01 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 08:49:07 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 08:52:29 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 08:52:51 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 08:53:47 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 08:56:48 UTC] PHP Parse error:  syntax error, unexpected identifier "https" in /home/jsjsjsjdj/public_html/free-fire/ngechek.php on line 27
+[09-May-2022 08:56:50 UTC] PHP Parse error:  syntax error, unexpected identifier "https" in /home/jsjsjsjdj/public_html/free-fire/ngechek.php on line 27
+[09-May-2022 08:57:47 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 08:58:07 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 09:10:26 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 09:14:08 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 09:15:26 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 09:16:59 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
+[09-May-2022 09:17:54 UTC] PHP Warning:  Undefined variable $sender in /home/jsjsjsjdj/public_html/.set.php on line 1
